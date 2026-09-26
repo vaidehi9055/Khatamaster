@@ -19,7 +19,7 @@ I build simple, useful Android apps for small businesses, and I design them in F
 - 📱 I develop **Android apps** in **Java and Kotlin**
 - 🎨 I design **UI/UX** in **Figma** following **Material Design**
 - 🏪 I care about tools that help **shop owners and small businesses** go digital
-- 🚀 My current project is **Khata Master**, a digital khata book, inventory and billing app
+- 🚀 My current project is **Khata Master** (v1.9), a digital khata book with suppliers, inventory, GST billing and cloud backup
 - 📫 Reach me at **loveloop9055@gmail.com**
 
 ---
@@ -30,8 +30,11 @@ I build simple, useful Android apps for small businesses, and I design them in F
 |---|---|
 | **Mobile** | Android, Java, Kotlin, Android Studio |
 | **Design** | Figma, Material Design, wireframing, prototyping |
-| **Data** | Local database, Firebase |
-| **App features** | PDF generation, search and filter, reports, WhatsApp sharing |
+| **Data** | Room (SQLite), Firebase |
+| **Cloud** | Google Sign-In, Google Drive API backup and restore |
+| **Android** | WorkManager, notifications, home screen widgets, biometric app lock |
+| **Monetization** | Google Play Billing (subscriptions), AdMob |
+| **App features** | PDF invoices and reports, multi-language support, search and filter, WhatsApp sharing |
 | **Tools** | Git, GitHub, Google Play Console |
 
 ---
@@ -50,11 +53,13 @@ I build simple, useful Android apps for small businesses, and I design them in F
 A digital khata book and udhar manager for small businesses.
 **Live on the Google Play Store.**
 
-- 📒 Customer ledgers with You will Get / You will Pay / Net Balance
-- 💰 One-tap Receive (In) and Send (Out) entries
-- 📦 Inventory with stock tracking, GST and low-stock alerts
-- 🧾 Billing with PDF invoices, plus view and download
-- 📊 Invoice history and reports
+- 📒 Customer **and supplier** ledgers with one-tap Receive (In) / Send (Out)
+- 📅 Today's cash summary: Money In, Money Out, Net Today and profit
+- 📦 Inventory with GST and low-stock notifications
+- 🧾 Itemized PDF invoices with business logo and UPI ID
+- ☁️ Google Drive and local backup, fingerprint app lock
+- 🌐 Amounts in words in 10 Indian languages
+- 📱 Home screen widget and Premium subscription
 
 **My role:** Android Developer & UI/UX Designer (end-to-end design and development)
 **Team:** Bhavin Mulani, Parth Kothiya
@@ -67,17 +72,19 @@ A digital khata book and udhar manager for small businesses.
 
 ## 🎨 Design Highlights
 
-| Customer Ledger | Inventory | Generated Bills |
-|:---:|:---:|:---:|
-| <img src="screenshots/customer-ledger.png" width="200" alt="Customer ledger" /> | <img src="screenshots/inventory.jpg" width="200" alt="Inventory" /> | <img src="screenshots/generated-bills.jpg" width="200" alt="Generated bills" /> |
+<img src="screenshots/banner.webp" width="100%" alt="Khata Master banner" />
+
+| Payments | Daily Summary | Languages | Low Stock Alert |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/store-ledger.png" width="170" alt="Customer ledger" /> | <img src="screenshots/store-daily-summary.png" width="170" alt="Today's summary" /> | <img src="screenshots/store-language.png" width="170" alt="Language selection" /> | <img src="screenshots/store-low-stock.png" width="170" alt="Low stock alert" /> |
 
 ---
 
 ## 📈 What I'm Working On
 
-- ☁️ Cloud backup and sync for Khata Master
-- 🌐 Multi-language support
-- 📊 More business reports for shop owners
+- 🌐 Adding more languages to Khata Master
+- 📊 More smart reports for shop owners
+- ✨ Polishing the UI/UX with every release
 
 ---
 
